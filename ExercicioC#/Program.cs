@@ -15,7 +15,7 @@
                 Console.Clear();
                 Console.WriteLine("Olá, professor! Escolha uma opção: ");
                 Console.WriteLine("1 - Cadastrar nota mínima para aprovação");
-                Console.WriteLine("2 - Cadastrar um aluno");
+                Console.WriteLine("2 - Cadastrar um aluno"); // sif
                 Console.WriteLine("3 - Selecionar o aluno pelo nome");
                 Console.WriteLine("4 - Listar todos os alunos");
                 Console.WriteLine("5 - Sair");
